@@ -1,8 +1,4 @@
-# Telegram-channel-list
-Recommend good telegram channels, and enjoy a nice internet experience.
-
-Example:
-
+1.
 Name:鲸发现
 
 URL:https://t.me/whalediscovery
